@@ -3,8 +3,8 @@ br {
  }
 
 body {
-  background-color: #000000;
-  color: #f5f5f5;
+  background-color: #f5f5f5;
+  color: #181A18;
 }
 
 h1 {
@@ -114,9 +114,9 @@ nav {
   text-align: center;
   font-size: 15px;
   font-family: sans-serif;
-  color: #f5f5f5;
+  color: #181A18;
 border-radius: 18px;
-background: #1c1c1e;
+background: ##e8e8e8;
 
   padding-top: 5px;
   padding-right: 100px;
