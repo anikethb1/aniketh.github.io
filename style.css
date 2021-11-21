@@ -116,7 +116,8 @@ nav {
   font-family: sans-serif;
   color: #f5f5f5;
 border-radius: 18px;
-background: rgba(110,21,222,0.42);
+background: background: #6e15de;
+    opacity: 0.6;
 
   padding-top: 5px;
   padding-right: 100px;
